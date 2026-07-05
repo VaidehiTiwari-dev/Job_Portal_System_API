@@ -1,6 +1,6 @@
 # Smart Job Portal System
 
-A full-stack **Smart Job Portal System** developed using **Java, Spring Boot, Spring Security, Hibernate, Spring Data JPA, MySQL, Maven, and Thymeleaf**. The application provides a secure platform where job seekers can search and apply for jobs while recruiters can post and manage job openings. The system implements **JWT Authentication**, **Role-Based Authorization**, **Email Notifications**, **Pagination**, and **Sorting** to deliver a secure and user-friendly experience.
+A full-stack **Smart Job Portal System** developed using **Java, Spring Boot, Spring Security, Hibernate, Spring Data JPA, MySQL and Maven **. The application provides a secure platform where job seekers can search and apply for jobs while recruiters can post and manage job openings. The system implements **JWT Authentication**, **Role-Based Authorization**, **Email Notifications**, **Pagination**, and **Sorting** to deliver a secure and user-friendly experience.
 
 ---
 
